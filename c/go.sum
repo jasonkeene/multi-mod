@@ -1,0 +1,4 @@
+github.com/jasonkeene/multi-mod/a v1.1.0 h1:iyCzpX5gtdMNXx7X3mX4rI8+01tpEfgAnfFzPGf1Dos=
+github.com/jasonkeene/multi-mod/a v1.1.0/go.mod h1:RjlSuJeY0NwWPRoUsYA9t3LzM1gUKbloNgm0Uu5bVgw=
+github.com/jasonkeene/multi-mod/b v1.6.3 h1:o1Cy/8GpH76z/zYTyrMoNbB6IupbYSp+4FpMrWbMlks=
+github.com/jasonkeene/multi-mod/b v1.6.3/go.mod h1:gCgM2IlN40zIH7T5Z7q4I8IHwBKh0S8AIsBhvwPsvN8=
